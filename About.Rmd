@@ -1,0 +1,8 @@
+---
+title: "About"
+author: "Emily Mitchell"
+date: "2/20/2018"
+output: html_document
+---
+
+I am a student at Appalachian State University working towards a bachelors in mathematics. I love being outside and cuddling with my hairless cat, Milo!
